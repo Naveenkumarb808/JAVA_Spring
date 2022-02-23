@@ -74,12 +74,12 @@
 			<artifactId>springfox-swagger-ui</artifactId>
 			<version>2.9.2</version>
 		</dependency>
-      <distributionManagement>
-  	   <snapshotRepository>
-  		  <id>snapshots</id>
-    		<url>http://13.232.8.62:8081/nexus/content/repositories/snapshots</url>
- 	   </snapshotRepository>
-      </distributionManagement>	
+ <distributionManagement>
+  <snapshotRepository>
+    <id>snapshots</id>
+    <url>http://15.206.125.153:8081/nexus/content/repositories/snapshots</url>
+  </snapshotRepository>
+</distributionManagement>
 	<build>
 		<plugins>
 			<plugin>
